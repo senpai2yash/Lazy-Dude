@@ -1,8 +1,13 @@
 # Lazy-Dude
 This is my first demo project in Github . Kindly give some love :)
 Sunflower
+
+
+
 print('Welcome to AskPython Quiz')
+
 answer=input('Are you ready to play the Quiz ? (yes/no) :')
+
 score=0
 total_questions=3
  
