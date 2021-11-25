@@ -1,4 +1,6 @@
 # Lazy-Dude
+yash khud se likha kar code samjha kya ab mera pull request accept kar . 
+
 This is my first demo project in Github . Kindly give some love :)
 Sunflower
 print('Welcome to AskPython Quiz')
